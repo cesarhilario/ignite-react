@@ -5,5 +5,6 @@
   "jsxSingleQuote": true,
   "bracketSpacing": true,
   "singleQuote": true,
-  "editorconfig": true
+  "editorconfig": true,
+  "trailingComma": "all"
 }
