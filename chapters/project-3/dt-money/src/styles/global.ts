@@ -7,7 +7,12 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  :not(:focus) {
+    transition: box-shadow 0.2s;
+  }
+
   :focus {
+    transition: box-shadow 0.2s;
     outline: none;
     box-shadow: 0 0 0 2px ${(props) => props.theme['green-500']};
   }
