@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-04-23T22:24:32.120Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 20000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-24T00:58:13.056Z",
+      "id": 4
+    },
+    {
+      "description": "Danone",
+      "price": 4,
+      "category": "Aliementação",
+      "type": "income",
+      "createdAt": "2023-04-24T01:11:44.608Z",
+      "id": 5
     }
   ]
 }
